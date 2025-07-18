@@ -1,12 +1,14 @@
 # Image Steganography Project Dependencies
-# added by naveen on 01-feb_2025
-tkinter>=8.6.0
+# Maintained by Naveen Pawar
+
+# GUI and Theme Support
 Pillow>=9.0.0
+tk  # 'tkinter' is part of Python standard library, but 'tk' is required by some platforms
+ttkthemes>=3.2.0
+
+# Core Libraries
 cryptography>=3.4.8
+pycryptodome>=3.15.0
 numpy>=1.21.0
 opencv-python>=4.5.0
-pycryptodome>=3.15.0
-# added by naveen on 15-feb_2025
 matplotlib>=3.5.0
-ttkthemes>=3.2.0
-# added by naveen on 28-feb_2025
