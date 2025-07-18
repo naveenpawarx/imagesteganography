@@ -1,0 +1,12 @@
+# Image Steganography Project Dependencies
+# added by naveen on 01-feb_2025
+tkinter>=8.6.0
+Pillow>=9.0.0
+cryptography>=3.4.8
+numpy>=1.21.0
+opencv-python>=4.5.0
+pycryptodome>=3.15.0
+# added by naveen on 15-feb_2025
+matplotlib>=3.5.0
+ttkthemes>=3.2.0
+# added by naveen on 28-feb_2025
