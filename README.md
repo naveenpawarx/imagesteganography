@@ -72,7 +72,7 @@ $ python steganography_project.py
 
 ## License
 
-MIT © 2025
+NWNPWR© 2025
 
 ---
 
