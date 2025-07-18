@@ -2,7 +2,6 @@
 
 A powerful GUI-based image steganography tool with **advanced encryption** and a professional **cyber-security interface**.
 
-![Banner](banner.png)
 
 ## Features
 
